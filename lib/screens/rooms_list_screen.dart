@@ -529,4 +529,4 @@ class _FR extends StatelessWidget {
       Text(t, style: MTextStyles.bodySmall.copyWith(
           color: Colors.white.withOpacity(0.60))),
     ]));
-}
+} 
