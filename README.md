@@ -1,4 +1,4 @@
-# milimani_app
+# milimani_app.
 
 A new Flutter project.
 
